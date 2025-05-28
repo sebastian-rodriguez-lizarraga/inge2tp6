@@ -1,0 +1,81 @@
+public class inge2.dataflow.targets.Target6 extends java.lang.Object
+{
+/*Target6.java*/
+    private inge2.dataflow.targets.Target6 f1;
+
+/*2*/
+    public void <init>()
+    {
+        inge2.dataflow.targets.Target6 this;
+
+        this := @this: inge2.dataflow.targets.Target6;
+
+        specialinvoke this.<java.lang.Object: void <init>()>();
+/*3*/
+
+        return;
+/*3*/
+    }
+
+/*6*/
+    public void entryPoint()
+    {
+        inge2.dataflow.targets.Target6 $stack6, a, $stack7, b, $stack8, c, $stack9, d, e, this;
+
+        this := @this: inge2.dataflow.targets.Target6;
+
+        $stack6 = new inge2.dataflow.targets.Target6;
+/*7*/
+
+        specialinvoke $stack6.<inge2.dataflow.targets.Target6: void <init>()>();
+/*7*/
+
+        a = $stack6;
+/*7*/
+
+        $stack7 = new inge2.dataflow.targets.Target6;
+/*8*/
+
+        specialinvoke $stack7.<inge2.dataflow.targets.Target6: void <init>()>();
+/*8*/
+
+        b = $stack7;
+/*8*/
+
+        a.<inge2.dataflow.targets.Target6: inge2.dataflow.targets.Target6 f1> = b;
+/*9*/
+
+        $stack8 = new inge2.dataflow.targets.Target6;
+/*10*/
+
+        specialinvoke $stack8.<inge2.dataflow.targets.Target6: void <init>()>();
+/*10*/
+
+        c = $stack8;
+/*10*/
+
+        $stack9 = new inge2.dataflow.targets.Target6;
+/*11*/
+
+        specialinvoke $stack9.<inge2.dataflow.targets.Target6: void <init>()>();
+/*11*/
+
+        d = $stack9;
+/*11*/
+
+        c.<inge2.dataflow.targets.Target6: inge2.dataflow.targets.Target6 f1> = d;
+/*12*/
+
+        a = c;
+/*13*/
+
+        e = a.<inge2.dataflow.targets.Target6: inge2.dataflow.targets.Target6 f1>;
+/*14*/
+
+        e.<inge2.dataflow.targets.Target6: inge2.dataflow.targets.Target6 f1> = b;
+/*15*/
+
+        return;
+/*16*/
+    }
+}

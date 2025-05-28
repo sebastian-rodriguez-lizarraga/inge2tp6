@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="inge2.dataflow.pointstoanalysis.PointsToGraphTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2025-05-28T23:53:39" hostname="sebi-OMEN-Laptop-15-ek0xxx" time="0.03">
+  <properties/>
+  <testcase name="setNodesForVariable should handle empty node set" classname="inge2.dataflow.pointstoanalysis.PointsToGraphTest" time="0.014"/>
+  <testcase name="union should not create duplicate nodes or axes" classname="inge2.dataflow.pointstoanalysis.PointsToGraphTest" time="0.001"/>
+  <testcase name="addEdge should handle multiple edges" classname="inge2.dataflow.pointstoanalysis.PointsToGraphTest" time="0.001"/>
+  <testcase name="addEdge should add axis to the graph" classname="inge2.dataflow.pointstoanalysis.PointsToGraphTest" time="0.0"/>
+  <testcase name="Clear should empty all collections" classname="inge2.dataflow.pointstoanalysis.PointsToGraphTest" time="0.001"/>
+  <testcase name="union should merge two graphs correctly" classname="inge2.dataflow.pointstoanalysis.PointsToGraphTest" time="0.001"/>
+  <testcase name="copy should clear current graph and copy from input" classname="inge2.dataflow.pointstoanalysis.PointsToGraphTest" time="0.001"/>
+  <testcase name="union should merge variable mappings correctly when same variable exists in both graphs" classname="inge2.dataflow.pointstoanalysis.PointsToGraphTest" time="0.001"/>
+  <testcase name="getReachableNodesByField should return correct nodes" classname="inge2.dataflow.pointstoanalysis.PointsToGraphTest" time="0.0"/>
+  <testcase name="getReachableNodesByField should return empty set for non-existent node" classname="inge2.dataflow.pointstoanalysis.PointsToGraphTest" time="0.001"/>
+  <testcase name="setNodesForVariable should add nodes to both nodes set and mapping" classname="inge2.dataflow.pointstoanalysis.PointsToGraphTest" time="0.0"/>
+  <testcase name="addEdge should not add duplicate edges" classname="inge2.dataflow.pointstoanalysis.PointsToGraphTest" time="0.0"/>
+  <testcase name="getNodesForVariable should return correct node set" classname="inge2.dataflow.pointstoanalysis.PointsToGraphTest" time="0.001"/>
+  <testcase name="getNodesForVariable should return null for non-existent variable" classname="inge2.dataflow.pointstoanalysis.PointsToGraphTest" time="0.0"/>
+  <testcase name="union should handle empty graphs" classname="inge2.dataflow.pointstoanalysis.PointsToGraphTest" time="0.0"/>
+  <testcase name="getReachableNodesByField should return empty set for non-existent field" classname="inge2.dataflow.pointstoanalysis.PointsToGraphTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

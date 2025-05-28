@@ -1,0 +1,38 @@
+public class inge2.dataflow.targets.Target1 extends java.lang.Object
+{
+/*Target1.java*/
+
+/*2*/
+    public void <init>()
+    {
+        inge2.dataflow.targets.Target1 this;
+
+        this := @this: inge2.dataflow.targets.Target1;
+
+        specialinvoke this.<java.lang.Object: void <init>()>();
+/*3*/
+
+        return;
+/*3*/
+    }
+
+/*4*/
+    public void entryPoint()
+    {
+        inge2.dataflow.targets.Target1 $stack2, x, this;
+
+        this := @this: inge2.dataflow.targets.Target1;
+
+        $stack2 = new inge2.dataflow.targets.Target1;
+/*5*/
+
+        specialinvoke $stack2.<inge2.dataflow.targets.Target1: void <init>()>();
+/*5*/
+
+        x = $stack2;
+/*5*/
+
+        return;
+/*6*/
+    }
+}

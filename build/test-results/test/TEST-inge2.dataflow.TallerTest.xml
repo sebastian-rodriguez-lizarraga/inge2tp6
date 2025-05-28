@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="inge2.dataflow.TallerTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2025-05-28T23:53:39" hostname="sebi-OMEN-Laptop-15-ek0xxx" time="0.733">
+  <properties/>
+  <testcase name="testTarget1()" classname="inge2.dataflow.TallerTest" time="0.311"/>
+  <testcase name="testTarget2()" classname="inge2.dataflow.TallerTest" time="0.104"/>
+  <testcase name="testTarget3()" classname="inge2.dataflow.TallerTest" time="0.097"/>
+  <testcase name="testTarget4()" classname="inge2.dataflow.TallerTest" time="0.069"/>
+  <testcase name="testTarget5()" classname="inge2.dataflow.TallerTest" time="0.092"/>
+  <testcase name="testTarget6()" classname="inge2.dataflow.TallerTest" time="0.054"/>
+  <testcase name="testUnionPTG()" classname="inge2.dataflow.TallerTest" time="0.0"/>
+  <system-out><![CDATA[Soot started on Wed May 28 20:53:39 ART 2025
+Soot finished on Wed May 28 20:53:39 ART 2025
+Soot has run for 0 min. 0 sec.
+Soot started on Wed May 28 20:53:39 ART 2025
+Soot finished on Wed May 28 20:53:39 ART 2025
+Soot has run for 0 min. 0 sec.
+Soot started on Wed May 28 20:53:39 ART 2025
+Soot finished on Wed May 28 20:53:40 ART 2025
+Soot has run for 0 min. 0 sec.
+Soot started on Wed May 28 20:53:40 ART 2025
+Soot finished on Wed May 28 20:53:40 ART 2025
+Soot has run for 0 min. 0 sec.
+Soot started on Wed May 28 20:53:40 ART 2025
+Soot finished on Wed May 28 20:53:40 ART 2025
+Soot has run for 0 min. 0 sec.
+Soot started on Wed May 28 20:53:40 ART 2025
+Soot finished on Wed May 28 20:53:40 ART 2025
+Soot has run for 0 min. 0 sec.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

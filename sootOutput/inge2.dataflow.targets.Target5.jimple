@@ -1,0 +1,75 @@
+public class inge2.dataflow.targets.Target5 extends java.lang.Object
+{
+/*Target5.java*/
+    private inge2.dataflow.targets.Target5 f1;
+
+/*2*/
+    public void <init>()
+    {
+        inge2.dataflow.targets.Target5 this;
+
+        this := @this: inge2.dataflow.targets.Target5;
+
+        specialinvoke this.<java.lang.Object: void <init>()>();
+/*3*/
+
+        return;
+/*3*/
+    }
+
+/*6*/
+    public void entryPoint()
+    {
+        inge2.dataflow.targets.Target5 $stack5, x, $stack6, y, $stack7, z, t, this;
+
+        this := @this: inge2.dataflow.targets.Target5;
+
+        $stack5 = new inge2.dataflow.targets.Target5;
+/*7*/
+
+        specialinvoke $stack5.<inge2.dataflow.targets.Target5: void <init>()>();
+/*7*/
+
+        x = $stack5;
+/*7*/
+
+        $stack6 = new inge2.dataflow.targets.Target5;
+/*8*/
+
+        specialinvoke $stack6.<inge2.dataflow.targets.Target5: void <init>()>();
+/*8*/
+
+        y = $stack6;
+/*8*/
+
+        $stack7 = new inge2.dataflow.targets.Target5;
+/*9*/
+
+        specialinvoke $stack7.<inge2.dataflow.targets.Target5: void <init>()>();
+/*9*/
+
+        z = $stack7;
+/*9*/
+
+        x.<inge2.dataflow.targets.Target5: inge2.dataflow.targets.Target5 f1> = y;
+/*10*/
+
+        y.<inge2.dataflow.targets.Target5: inge2.dataflow.targets.Target5 f1> = z;
+/*11*/
+
+        z.<inge2.dataflow.targets.Target5: inge2.dataflow.targets.Target5 f1> = x;
+/*12*/
+
+        t = z;
+/*14*/
+
+        t = t.<inge2.dataflow.targets.Target5: inge2.dataflow.targets.Target5 f1>;
+/*15*/
+
+        t = t.<inge2.dataflow.targets.Target5: inge2.dataflow.targets.Target5 f1>;
+/*16*/
+
+        return;
+/*17*/
+    }
+}
